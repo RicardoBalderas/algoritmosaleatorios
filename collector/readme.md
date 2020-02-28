@@ -4,6 +4,8 @@ El problema del colector de cupones consiste en juntar al menos un cupon de cada
 
 Es posible calcular la cantidad esperada de cajas que se necesitarán abrir para conseguir los n distintos cupones, y el objetivo de este pequeño programa es comprobar que dicho cálculo del valor esperado es el correcto.
 
+Para ejecutar el algoritmo en Python, acceder a la carpeta 'python', y ejecutar 'python collector.py'. Para ejecutar el algoritmo en Rust, entrar a la carpeta 'rust' y ejecutar 'cargo run'.
+
 A continuación se muestra una tabla con los resultados de dicho programa.
 
 ![table](collectortable.png)
