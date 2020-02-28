@@ -6,12 +6,12 @@ Es posible calcular la cantidad esperada de cajas que se necesitarán abrir para
 
 A continuación se muestra una tabla con los resultados de dicho programa.
 
-![Minion](collectortable.png)
+![table](collectortable.png)
 
 Además, se colocan dos gráficas en las que se puede apreciar de forma más clara que no existe una diferencia significativa entre el valor esperado y el promedio de varios intentos del algoritmo.
 
-![Minion](collectorlin.png)
+![lingraph](collectorlin.png)
 
-![Minion](collectorlog.png)
+![loggraph](collectorlog.png)
 
 Con lo anterior se puede ver que el cálculo del valor esperado es bastante preciso, con lo que no es necesario ejecutar simulaciones del algoritmo.
