@@ -8,8 +8,6 @@ A continuación se muestra una tabla con los resultados de dicho programa.
 
 ![table](quicksorttable.png)
 
-Se realizó un menor número de simulaciones en Python debido al mayor tiempo de ejecución de dicho lenguaje.
-
 Además, se colocan dos gráficas en las que se puede apreciar de forma más clara que no existe una diferencia significativa entre el valor esperado y el promedio de varios intentos del algoritmo.
 
 ![lingraph](quicksortlin.png)
